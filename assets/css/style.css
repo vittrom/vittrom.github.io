@@ -388,6 +388,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+ul.links{
+  display: inline
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
